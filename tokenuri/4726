@@ -1,32 +1,6 @@
 {
     "name":"Chubby Zombie #4726",
     "description":"ChubbyKaijuDAO Invasion collection. All Kaijus are cute and chubby, yet some are scary. ChubbyKaijuDAO aims to build an advanced DAO system, the indirect democratic DAO, that resembles modern democracy. The chubby brand expands with one of the richest DAO Treasury.",
-    "image":"https://raw.githubusercontent.com/KaijuDAO/kaijudao_invasion/main/images/4726.png",
-    "external_url":"/URL/",
-    "attributes":[
-        {
-            "trait_type":"Background",
-            "value":"Legendary"
-        },
-        {
-            "trait_type":"Skin",
-            "value":"Zombie Black"
-        },
-        {
-            "trait_type":"Cloth",
-            "value":"Wizard"
-        },
-        {
-            "trait_type":"Mouth",
-            "value":"Laser"
-        },
-        {
-            "trait_type":"Eyes",
-            "value":"OneEye"
-        },
-        {
-            "trait_type":"Hats",
-            "value":"Flower"
-        }
-    ]
+    "image":"https://raw.githubusercontent.com/KaijuDAO/kaijudao_invasion/main/tokenuri/template.png",
+    "external_url":"/URL/"
 }
