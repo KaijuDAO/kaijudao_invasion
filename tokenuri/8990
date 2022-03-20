@@ -1,6 +1,32 @@
 {
-    "name":"Chubby Alien",
+    "name":"Chubby Alien #8990",
     "description":"ChubbyKaijuDAO Invasion collection. All Kaijus are cute and chubby, yet some are scary. ChubbyKaijuDAO aims to build an advanced DAO system, the indirect democratic DAO, that resembles modern democracy. The chubby brand expands with one of the richest DAO Treasury.",
-    "image":"https://raw.githubusercontent.com/KaijuDAO/kaijudao_invasion/main/tokenuri/template.png",
-    "external_url":"/URL/"
+    "image":"https://raw.githubusercontent.com/KaijuDAO/kaijudao_invasion/main/images/8990.png",
+    "external_url":"/URL/",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"Uncommon"
+        },
+        {
+            "trait_type":"Skin",
+            "value":"Alien Purple"
+        },
+        {
+            "trait_type":"Cloth",
+            "value":"A-UChubbyT"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"A-Rainbow"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"A-Plain"
+        },
+        {
+            "trait_type":"Hats",
+            "value":"A-GoldHair"
+        }
+    ]
 }
